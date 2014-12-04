@@ -1,0 +1,9 @@
+## Interface: 60000
+## Title: ZoneMount
+## Notes: Use zone-appropriate mounts
+## Author: Jesse Farmer
+## Version: 0.1.0
+## X-Category: Companions
+## X-Website: https://github.com/jfarmer/ZoneMount
+
+ZoneMount.lua
