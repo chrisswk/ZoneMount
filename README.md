@@ -4,8 +4,10 @@ An intelligent mounting add-on for World of Warcraft.
 
 ## Installation
 
-Copy the `ZoneMount` directory to your `Interface/AddOns` directory.  On a Mac,
-for example, this lives at
+You can download the latest release from
+<https://github.com/jfarmer/ZoneMount/releases/latest>.  To install, uncompress
+the downloaded file and copy the newly-created `ZoneMount` directory to the
+`Interface/AddOns` directory.  On a Mac, for example, this lives at
 
 ```text
 /Applications/World of Warcraft/Interface/AddOns
